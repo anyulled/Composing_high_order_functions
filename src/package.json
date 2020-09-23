@@ -5,11 +5,11 @@
   "keywords": [],
   "main": "index.js",
   "dependencies": {
-    "redux-form-website-template": "0.0.41",
+    "redux-form-website-template": "0.0.60",
     "redux-form": "7.0.4",
     "redux": "3.7.2",
     "react-redux": "5.0.6",
-    "react-dom": "15.6.1",
-    "react": "15.6.1"
+    "react-dom": "16.5.0",
+    "react": "16.5.0"
   }
 }
