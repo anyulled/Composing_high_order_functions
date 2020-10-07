@@ -5,11 +5,17 @@
   "keywords": [],
   "main": "index.js",
   "dependencies": {
-    "redux-form-website-template": "0.0.60",
+    "redux-form-website-template": "1.0.13",
     "redux-form": "7.0.4",
     "redux": "3.7.2",
-    "react-redux": "5.0.6",
-    "react-dom": "16.5.0",
-    "react": "16.5.0"
-  }
+    "react-redux": "7.2.1",
+    "react-dom": "15.6.1",
+    "react": "15.6.1",
+    "snyk": "^1.316.1"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
