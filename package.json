@@ -7,10 +7,16 @@
     "redux-form-website-template": "0.0.124",
     "redux": "3.7.2",
 
+
+    "react-dom": "15.6.2",
+
+
+
     "react-redux": "7.2.1",
 
-    "react-dom": "15.6.1",
+
     "react": "15.6.2"
+
   },
   "devDependencies": {
     "react-scripts": "3.4.3"
