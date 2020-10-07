@@ -9,8 +9,8 @@
     "redux-form": "7.0.4",
     "redux": "3.7.2",
     "react-redux": "7.2.1",
-    "react-dom": "15.6.1",
-    "react": "15.6.1",
+    "react-dom": "16.13.1",
+    "react": "16.13.1",
     "snyk": "^1.316.1"
   },
   "scripts": {
