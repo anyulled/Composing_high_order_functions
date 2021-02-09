@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "index.js",
   "dependencies": {
-    "redux-form-website-template": "1.0.20",
+    "redux-form-website-template": "1.0.21",
     "redux-form": "8.3.7",
     "redux": "4.0.5",
     "react-redux": "7.2.2",
