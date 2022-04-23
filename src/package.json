@@ -7,7 +7,7 @@
   "dependencies": {
     "redux-form-website-template": "1.0.21",
     "redux-form": "8.3.8",
-    "redux": "4.1.2",
+    "redux": "4.2.0",
     "react-redux": "7.2.8",
     "react-dom": "18.0.0",
     "react": "18.0.0",
