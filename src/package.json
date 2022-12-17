@@ -6,7 +6,7 @@
   "main": "index.js",
   "dependencies": {
     "redux-form-website-template": "1.0.21",
-    "redux-form": "8.3.8",
+    "redux-form": "8.3.9",
     "redux": "4.2.0",
     "react-redux": "8.0.2",
     "react-dom": "18.2.0",
